@@ -1,15 +1,8 @@
 {
     "repositories": [
        {
-            "type": "package",
-            "package": {
-                "name": "pear/Pear_Exception",
-                "version": "dev-master",
-                "dist": {
-                    "url": "https://github.com/pear/PEAR_Exception/archive/master.zip",
-                    "type": "zip"
-                }
-            }
+            "type": "vcs",
+            "url": "https://github.com/wooble/pear-exception"
         }
     ],
     "authors": [
@@ -37,7 +30,7 @@
     },
     "type": "library",
     "require": {
-        "pear/pear_exception": "dev-master"
+        "pear-exception/pear-exception": "dev-master"
     },
     "require-dev": {
         "phpunit/phpunit": "*"
