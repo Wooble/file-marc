@@ -30,7 +30,7 @@
         "./"
     ],
     "license": "LGPL-2.1",
-    "name": "pear/file_marc",
+    "name": "file-marc/file-marc",
     "support": {
         "issues": "http://pear.php.net/bugs/search.php?cmd=display&package_name[]=File_MARC",
         "source": "https://github.com/pear/File_MARC"
